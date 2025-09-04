@@ -159,4 +159,3 @@ Contributions are welcome! To contribute:
 - **Libraries**: Thanks to the maintainers of Pandas, Scikit-learn, Surprise, Matplotlib, and Seaborn.
 - **Inspiration**: Based on standard collaborative filtering techniques in recommendation systems literature.
 
-```
